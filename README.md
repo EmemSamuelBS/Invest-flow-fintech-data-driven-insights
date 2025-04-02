@@ -1,5 +1,5 @@
-InvestFlow Project: Reducing Churn and Improving Investor Retention for a Fintech App
-Project Overview
+# InvestFlow Project: Reducing Churn and Improving Investor Retention for a Fintech App
+# Project Overview
 The InvestFlow project aimed to address the challenge of high investor churn and improve engagement for a fintech company offering a crypto or investment app. The objective was to analyze investor behaviors, identify patterns that lead to churn, and provide actionable insights that would help retain investors and increase their interactions with the platform.
 
 Key Deliverables
@@ -36,7 +36,7 @@ Actionable Recommendations: Suggested strategies to improve engagement, such as 
 Engaging Data Storytelling: The report was designed to make the data easy to understand, with real-world examples and clear visuals that resonated with stakeholders
 
 
-.Project Impact
+# Project Impact
 The InvestFlow project provided the fintech company with a comprehensive understanding of its investor base. By analyzing detailed behavioral data and presenting actionable insights, the company is now equipped with strategies to reduce churn and enhance investor retention. The interactive dashboard and storytelling report allow the company to monitor and respond to trends in real-time, leading to more personalized, data-driven decision-making.
 
 Overall, the project empowered the company to build a more engaging platform, increase user satisfaction, and ultimately improve retention rates, helping to ensure the long-term success of their fintech app.
