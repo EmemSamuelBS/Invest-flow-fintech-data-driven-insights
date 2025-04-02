@@ -30,7 +30,10 @@ The InvestFlow project aimed to address the challenge of high investor churn and
 
 Key Insights: Provided a clear overview of the investor behavior trends, highlighting the causes of churn.
 
-# Actionable Recommendations: Suggested strategies to improve engagement, such as personalized alerts for at-risk users and targeted retention campaigns.
+# Actionable Recommendations:
+
+Suggested strategies to impro
+ve engagement, such as personalized alerts for at-risk users and targeted retention campaigns.
 
 Engaging Data Storytelling: The report was designed to make the data easy to understand, with real-world examples and clear visuals that resonated with stakeholders
 
