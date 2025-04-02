@@ -2,36 +2,35 @@
 # Project Overview
 The InvestFlow project aimed to address the challenge of high investor churn and improve engagement for a fintech company offering a crypto or investment app. The objective was to analyze investor behaviors, identify patterns that lead to churn, and provide actionable insights that would help retain investors and increase their interactions with the platform.
 
-Key Deliverables
-Granular Investor Dataset A detailed dataset was created covering the period from October–December 2024 with updates for January and February 2025. This dataset included:
+# Key Deliverables
+1) Granular Investor Dataset A detailed dataset was created covering the period from October–December 2024 with updates for January and February 2025. This dataset included:
 
-Investor Segmentation: Categorized investors based on factors such as transaction frequency, app interactions, and account balance.
+2) Investor Segmentation: Categorized investors based on factors such as transaction frequency, app interactions, and account balance.
 
-Behavioral Data: Tracked user behaviors over time, such as changes in transaction volume and frequency.
+3) Behavioral Data: Tracked user behaviors over time, such as changes in transaction volume and frequency.
 
-Churn Indicators: Early signs of churn, like inactivity or reduced investment, were highlighted to predict future drop-offs.
+4) Churn Indicators: Early signs of churn, like inactivity or reduced investment, were highlighted to predict future drop-offs.
 
-Excel Data Analysis The dataset was analyzed in Excel to extract valuable insights:
+5) Excel Data Analysis The dataset was analyzed in Excel to extract valuable insights:
 
-Trend Analysis: Identified trends in user activity, such as drops in transaction frequency or app logins.
+6) Trend Analysis: Identified trends in user activity, such as drops in transaction frequency or app logins.
+8) Churn Prediction: Developed indicators for predicting investor churn, enabling the team to identify high-risk users.
 
-Churn Prediction: Developed indicators for predicting investor churn, enabling the team to identify high-risk users.
+9) Segmentation Insights: Pinpointed investor groups most likely to churn and those with high retention potential.
 
-Segmentation Insights: Pinpointed investor groups most likely to churn and those with high retention potential.
+10) Power BI Interactive Dashboard A Power BI dashboard was created to visualize the insights:
 
-Power BI Interactive Dashboard A Power BI dashboard was created to visualize the insights:
+11) Investor Segments: Visualized investor behavior and transactions, segmented by factors like frequency and engagement.
 
-Investor Segments: Visualized investor behavior and transactions, segmented by factors like frequency and engagement.
+12) Churn and Engagement Metrics: Displayed churn rates, engagement levels, and trends over time.
 
-Churn and Engagement Metrics: Displayed churn rates, engagement levels, and trends over time.
+13) Behavioral Insights: Highlighted correlations between specific behaviors and churn, allowing the fintech company to target at-risk investors more effectively.
 
-Behavioral Insights: Highlighted correlations between specific behaviors and churn, allowing the fintech company to target at-risk investors more effectively.
-
-PowerPoint Data Storytelling Report A PowerPoint presentation was developed to share the findings with the company’s leadership:
+14) PowerPoint Data Storytelling Report A PowerPoint presentation was developed to share the findings with the company’s leadership:
 
 Key Insights: Provided a clear overview of the investor behavior trends, highlighting the causes of churn.
 
-Actionable Recommendations: Suggested strategies to improve engagement, such as personalized alerts for at-risk users and targeted retention campaigns.
+# Actionable Recommendations: Suggested strategies to improve engagement, such as personalized alerts for at-risk users and targeted retention campaigns.
 
 Engaging Data Storytelling: The report was designed to make the data easy to understand, with real-world examples and clear visuals that resonated with stakeholders
 
